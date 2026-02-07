@@ -1,4 +1,4 @@
-<h1 welcome to my profile </h1>
+<h1 align="center">welcome to my profile </h1>
 ### Hi there 👋
 * 👂 My name is James Bond M. Benito
 * 👩 Pronouns: he/him
@@ -12,3 +12,5 @@
 * ⚡ Fun fact: im pro player
 
 <img src="https://imgs.search.brave.com/zYu1lfxYSt_oWCrF4w7UZrpi0oG3_DV7Gs2fRhOODDU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzc1Lzc1/LzJlLzc1NzUyZThk/MzM2ODYxNjU1ODg3/MDhjOGY2NTI5NTZi/LmpwZw"><img src="https://imgs.search.brave.com/3nget3HA4pk_Xh9yOa8b-mS-ugV0WCNNtophqBFp3l8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2FjLzVi/LzU2L2FjNWI1NjZh/MTA4ZTZlNzc3ZDJm/ZmExMzYyN2JmMmIz/LmpwZw">
+<img src="https://imgs.search.brave.com/nxDwNQkQvapqVnQxec_QIy27TxzVoSUPRfcRpLKZA7Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvbGV0/dGVyLXotd2l0aC1k/YXJrLWdyZWVuLWxl/YXZlcy15c3V0OGx0/N2IzbmN0MnYzLmpw/Zw">
+<img src="https://imgs.search.brave.com/nxDwNQkQvapqVnQxec_QIy27TxzVoSUPRfcRpLKZA7Q/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJzLmNvbS9p/bWFnZXMvaGQvbGV0/dGVyLXotd2l0aC1k/YXJrLWdyZWVuLWxl/YXZlcy15c3V0OGx0/N2IzbmN0MnYzLmpw/Zw">
