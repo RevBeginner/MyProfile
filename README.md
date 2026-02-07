@@ -1,5 +1,5 @@
 <h1 align="center">Welcome To My Profile </h1>
-<div align="center">
+<div align="left">
 ### Hi there 👋
 * 👂 My name is James Bond M. Benito
   
