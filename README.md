@@ -1,4 +1,4 @@
-<h1 align="center">welcome to my profile </h1>
+<h1 align="center">Welcome To My Profile </h1>
 ### Hi there 👋
 * 👂 My name is James Bond M. Benito
 * 👩 Pronouns: he/him
